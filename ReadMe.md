@@ -55,8 +55,6 @@ matplotlib==3.8.0
 - Target variable is imbalanced (~27% churn rate)
 - Contract type strongly correlates with churn
 - Tenure and monthly charges are significant predictors
-- Tree-based models show robust performance (XGBoost)
-- SMOTE resampling improves model performance
 
 ## 🚀 Usage
 1. Install required dependencies
